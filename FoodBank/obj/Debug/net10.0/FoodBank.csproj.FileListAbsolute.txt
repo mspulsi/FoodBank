@@ -1,0 +1,14 @@
+/Users/mspul/RiderProjects/FoodBank/FoodBank/bin/Debug/net10.0/FoodBank
+/Users/mspul/RiderProjects/FoodBank/FoodBank/bin/Debug/net10.0/FoodBank.deps.json
+/Users/mspul/RiderProjects/FoodBank/FoodBank/bin/Debug/net10.0/FoodBank.runtimeconfig.json
+/Users/mspul/RiderProjects/FoodBank/FoodBank/bin/Debug/net10.0/FoodBank.dll
+/Users/mspul/RiderProjects/FoodBank/FoodBank/bin/Debug/net10.0/FoodBank.pdb
+/Users/mspul/RiderProjects/FoodBank/FoodBank/obj/Debug/net10.0/FoodBank.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mspul/RiderProjects/FoodBank/FoodBank/obj/Debug/net10.0/FoodBank.AssemblyInfoInputs.cache
+/Users/mspul/RiderProjects/FoodBank/FoodBank/obj/Debug/net10.0/FoodBank.AssemblyInfo.cs
+/Users/mspul/RiderProjects/FoodBank/FoodBank/obj/Debug/net10.0/FoodBank.csproj.CoreCompileInputs.cache
+/Users/mspul/RiderProjects/FoodBank/FoodBank/obj/Debug/net10.0/FoodBank.dll
+/Users/mspul/RiderProjects/FoodBank/FoodBank/obj/Debug/net10.0/refint/FoodBank.dll
+/Users/mspul/RiderProjects/FoodBank/FoodBank/obj/Debug/net10.0/FoodBank.pdb
+/Users/mspul/RiderProjects/FoodBank/FoodBank/obj/Debug/net10.0/FoodBank.genruntimeconfig.cache
+/Users/mspul/RiderProjects/FoodBank/FoodBank/obj/Debug/net10.0/ref/FoodBank.dll
